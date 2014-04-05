@@ -1,10 +1,10 @@
 {
   "name": "tol-api",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "TraderOnline api client",
   "dependencies":  {
-    "q": "~0.9.7",
-    "request": "~2.27",
-    "underscore": "~1.5"
+    "q": "~1.0",
+    "request": "~2.34",
+    "underscore": "~1.6"
   }
 }
