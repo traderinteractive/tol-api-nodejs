@@ -18,5 +18,6 @@ var createClient = function(apiUrl, clientId, clientSecret) {
 module.exports = exports = {
   createClient: createClient,
   getClientCredentialsToken: api.getClientCredentialsToken,
-  getResourceOwnerPasswordCredentialsToken: api.getResourceOwnerPasswordCredentialsToken
+  getResourceOwnerPasswordCredentialsToken: api.getResourceOwnerPasswordCredentialsToken,
+  handleRefreshToken: api.handleRefreshToken
 };
