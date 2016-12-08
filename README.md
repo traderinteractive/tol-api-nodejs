@@ -14,7 +14,7 @@ There are 2 ways you can import this project.
 
 ```json
 "dependencies" :{
-        "tol-api" : "https://github.com/dominionenterprises.com/tol-api-nodejs#v0.7.x"
+        "tol-api" : "0.7.x"
 }
 ```
 
