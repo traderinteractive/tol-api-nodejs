@@ -13,8 +13,10 @@ There are 2 ways you can import this project.
 2.) Add the following entry to your packages.json and then run ```npm update``` (Recommended)
 
 ```json
-"dependencies" :{
-        "tol-api" : "0.7.x"
+{
+  "dependencies" :{
+    "tol-api" : "0.7.x"
+  }
 }
 ```
 
