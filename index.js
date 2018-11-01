@@ -28,5 +28,6 @@ module.exports = exports = {
   createClient: createClient,
   getClientCredentialsToken: api.getClientCredentialsToken,
   getResourceOwnerPasswordCredentialsToken: api.getResourceOwnerPasswordCredentialsToken,
-  handleRefreshToken: api.handleRefreshToken
+  handleRefreshToken: api.handleRefreshToken,
+  handleJwt: api.handleJwt
 };
