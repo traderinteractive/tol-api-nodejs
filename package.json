@@ -6,6 +6,6 @@
     "q": "~1.0",
     "request": "^2.88",
     "debug": "~4.1",
-    "underscore": "~1.6"
+    "underscore": "^1.12.1"
   }
 }
