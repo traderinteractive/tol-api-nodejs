@@ -15,7 +15,7 @@ There are 2 ways you can import this project.
 ```json
 {
   "dependencies": {
-    "tol-api": "0.7.x"
+    "tol-api": "0.8.x"
   }
 }
 ```
